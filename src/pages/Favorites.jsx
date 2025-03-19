@@ -1,6 +1,7 @@
+import "../css/Favorites.css"
 function Favorites(){
      return (
-         <div>
+         <div className="favorites-empty">
              <h1>My Favorites</h1>
              <p>These are my favorite movies</p>
          </div>
